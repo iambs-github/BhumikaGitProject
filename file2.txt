@@ -1,2 +1,2 @@
 this is file 2 from branch
-
+hello this from file2 of branch
